@@ -1,8 +1,8 @@
-# Keyestudio Raspberry Pi Pico Learning Kit Basic Edition
+# Keyestudio Raspberry Pi Pico Basic Learning Kit
 
 ![Img](./media/img-20231113142218.jpg)
 
-## 1. Introduction
+# 1. Introduction
 
 Do you want to learn about programming?
 
@@ -16,7 +16,7 @@ In addition, you can master the use of electronics, physics, science and program
 
 
 
-## 2. Kit List 
+# 2. Kit List 
 
 |               Name                |                             Pic                              | Qty  |
 | :-------------------------------: | :----------------------------------------------------------: | :--: |
@@ -59,13 +59,13 @@ In addition, you can master the use of electronics, physics, science and program
 
 
 
-## 3. Tutorials 
+# 3. Tutorials 
 
 * [1.Raspberry_Pi_Pico](Raspberry_Pi_Pico.md)
 
 * [2.Arduino_C_Tutorial(Windows)](C/C.md)
 
-* [3.Python_Tutorial(Windows)](Python_Windows/PythonWindows.md)
+* [3.Python_Tutorial(Windows)](Python_Windows/Python-Windows.md)
 
 * [4.Python_Tutorial(Raspberry-Pi)](Python-Raspberry-Pi/Python-Raspberry-Pi.md)
 
