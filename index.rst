@@ -7,7 +7,7 @@
    Raspberry_Pi_Pico.md
    C/C.md
    Python_Windows/Python_Windows.md
-   Python_Raspberry-Pi/Python_Raspberry-Pi.md
+   Python_Raspberry_Pi/Python_Raspberry_Pi.md
 
 
 
