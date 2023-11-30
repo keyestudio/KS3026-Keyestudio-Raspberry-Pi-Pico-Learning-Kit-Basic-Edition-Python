@@ -1,4 +1,4 @@
-# **Raspberry Pi Pico Board：**
+# Raspberry Pi Pico Board：
 
 **1. Introduction：**
 

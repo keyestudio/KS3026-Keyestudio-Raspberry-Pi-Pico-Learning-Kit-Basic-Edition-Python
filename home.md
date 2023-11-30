@@ -2,7 +2,7 @@
 
 ![Img](./media/img-20231113142218.jpg)
 
-# 1. Introduction
+# Introduction
 
 Do you want to learn about programming?
 
@@ -16,7 +16,7 @@ In addition, you can master the use of electronics, physics, science and program
 
 
 
-# 2. Kit List 
+# Kit List 
 
 |               Name                |                             Pic                              | Qty  |
 | :-------------------------------: | :----------------------------------------------------------: | :--: |
