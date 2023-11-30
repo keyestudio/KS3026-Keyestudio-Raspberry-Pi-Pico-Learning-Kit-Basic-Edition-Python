@@ -58,17 +58,3 @@ In addition, you can master the use of electronics, physics, science and program
 |           S8550 Triode            | ![image-20230515142234704](media/image-20230515142234704.png) |  2   |
 
 
-
-# 3. Tutorials 
-
-* [1.Raspberry_Pi_Pico](Raspberry_Pi_Pico.md)
-
-* [2.Arduino_C_Tutorial(Windows)](C/C.md)
-
-* [3.Python_Tutorial(Windows)](Python_Windows/Python-Windows.md)
-
-* [4.Python_Tutorial(Raspberry-Pi)](Python-Raspberry-Pi/Python-Raspberry-Pi.md)
-
-* [5.Libraries_and_Firmware](Libraries_and_Firmware.zip)
-
-* [6.Codes](Codes.zip)
