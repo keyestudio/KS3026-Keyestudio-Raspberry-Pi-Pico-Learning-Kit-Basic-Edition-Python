@@ -269,12 +269,12 @@ There is an onboard LED in Raspberry Pi Pico,which is a GP25 pin attached to the
 
 #### 2. Components:
 
-| ![image-20230508171033042](media/image-20230508171033042.png) | <img src="media/bbed91c0b45fcafc7e7163bfeabf68f9.png" style="zoom:50%;" /> |
+| ![](media/image-20230508171033042.png) | ![](media/bbed91c0b45fcafc7e7163bfeabf68f9.png) |
 | :-----------------------------------------------------: | :----------------------------------: |
 | Raspberry Pi Pico\*1                                    | Raspberry Pi Pico Expansion Board\*1 |
-| ![image-20230508171157405](media/image-20230508171157405.png) | ![](media/wps73.png) |
+| ![](media/image-20230508171157405.png) | ![](media/wps73.png) |
 | USB Cable\*1 | Breadboard\*1 |
-| ![image-20230508171144938](media/image-20230508171144938.png) |![image-20230508171150030](media/image-20230508171150030.png)|
+| ![image-20230508171144938](media/image-20230508171144938.png) |![](media/image-20230508171150030.png)|
 | Red LED\*1                                             | 220Ω Resistor\*1                     |
 | ![image-20230508171220670](media/image-20230508171220670.png) |  |
 | Jumper Wire\*2 |  |
@@ -436,10 +436,10 @@ In this project, we will learn the PWM control of ARDUINO. PWM is Pulse Width Mo
 
 #### 2. Components:
 
-| ![image-20230508172750055](media/image-20230508172750055.png) | <img src="media/bbed91c0b45fcafc7e7163bfeabf68f9-16835380638151.png" style="zoom:50%;" /> | ![image-20230508172721129](media/image-20230508172721129.png) | ![image-20230508172725798](media/image-20230508172725798.png) |
+| ![](media/image-20230508172750055.png) | ![](media/bbed91c0b45fcafc7e7163bfeabf68f9-16835380638151.png) | ![](media/image-20230508172721129.png) | ![](media/image-20230508172725798.png) |
 | ------------------------------------------------------- | ------------------------------------ | ---------------------- | ---------------------- |
 | Raspberry Pi Pico\*1                                    | Raspberry Pi Pico Expansion Board\*1 | USB Cable\*1 | Jumper Wire\*2 |
-| ![image-20230508172758711](media/image-20230508172758711.png) |![image-20230508172830359](media/image-20230508172830359.png)|![](media/wps73.png)| |
+| ![image-20230508172758711](media/image-20230508172758711.png) |![](media/image-20230508172830359.png)|![](media/wps73.png)| |
 | Red LED\*1                                              | 220Ω Resistor\*1                     | Breadboard\*1          |          |
 
 #### 3. Component Knowledge:

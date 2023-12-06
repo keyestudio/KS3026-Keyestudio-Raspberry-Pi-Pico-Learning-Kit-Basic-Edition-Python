@@ -3175,7 +3175,7 @@ In this lesson we will use Raspberry Pi Pico to control LEDs to implement the fu
 
 #### 3. Component Knowledge:
 
-<img src="media/9e553e75b6f976f33438171eb2f2e775.png" style="zoom:33%;" />
+![](media/9e553e75b6f976f33438171eb2f2e775.png)
 
 It is a photosensitive resistor, its principle is that the photoresistor surface receives brightness (light) to reduce the resistance. The resistance value will change with the detected intensity of the ambient light . With this property, we can use photoresistors to detect light intensity.  
 
